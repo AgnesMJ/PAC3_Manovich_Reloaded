@@ -1,29 +1,29 @@
 # PEC3_Manovich_Reloaded
-Autor: 
+Autora: Agnès Molins Joaquin
 
 
-Fecha: 
+Data: 21 de maig 2023
 
-![Cultura Digital](https://miro.medium.com/max/1400/0*9PyyNvrO2PcD3KuU.png) 
-
-
-
-## Planteamiento
+![Cultura Digital](https://img.freepik.com/vector-gratis/ilustracion-concepto-redes-sociales_53876-27013.jpg)
 
 
 
-
-## Re-descubriendo la hibridacion: Caso 1
+## Plantejament
 
 
 
 
-
-## Re-descubriendo la hibridacion: Caso 2
-
+## Cas 1 de l'hibridació: SAP
 
 
-### Referencias y Bibliografía
+
+
+
+## Cas 2 de l'hibridació: AVAST
+
+
+
+### Referències i Bibliografía
 
 * Manovich, Lev. (2013). **El Software toma el mando**. Barcelona: Editorial UOC. 
 
