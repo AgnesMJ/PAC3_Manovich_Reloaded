@@ -36,7 +36,7 @@ Una important demostració d'hibridació que podem explicar és que a l'agost de
 Podrem dir que l'objectiu principal d'Avast Software és proporcionar seguretat informàtica, protecció de la privacitat en internet, seguretat de navegador, protecció de comptes, software antivirus, tallafocs, protecció contra filtracions, anti phishing, antispyware i antispam entre altres serveis depenent del tipus de dispositiu però tot amb un equip d'informàtics darrere, en constant canvi i actualitzant i incorporant cada dia les noves versions de cada sistema de seguretat, així Avast Software encara és un dels millors programes Antivirus i hibrida dia a dia per la seguretat dels seus clients.
 
 
-### Referències i Bibliografía
+### Referències i Bibliografia
 
 * Manovich, Lev. (2013). **El Software toma el mando**. Barcelona: Editorial UOC. 
 * Open webinars: https://openwebinars.net/blog/evolucion-y-versiones-de-sap/
